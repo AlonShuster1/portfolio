@@ -1,5 +1,5 @@
 title: Alon Shuster
-logo: /assets/img/profileimg.jpg
+#logo: /assets/img/profileimg.jpg
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
