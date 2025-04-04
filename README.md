@@ -12,4 +12,4 @@ ewsrgsgesges
 thdhdhdh
 -rghdrhdh
 
-[publication](www.linkedin.com/in/alon-shuster)
+[linkedin](http://www.linkedin.com/in/alon-shuster)
